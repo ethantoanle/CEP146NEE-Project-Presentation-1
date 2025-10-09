@@ -5,7 +5,7 @@
 | Ali Sina Qadiri | |
 | Ethan Le | 122071251 |
 | Ihab Yehia | |
-| Komil Rabiyev | |
+| Komil Rabiyev |144801248 |
 | Lance Cadag | |132197237
 
 ## Topic summary
@@ -23,6 +23,9 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 ### Dominant Languages
 ### Growing Languages
 ### Other Notable Languages
+
+Testing 
+
 ### Key Trends
 
 Link to YouTube video (Time: 2:30–3:00 minutes)
