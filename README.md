@@ -39,26 +39,26 @@ Server-side scripting
 Websites, WordPress
 Powers 70%+ of websites
 
-####C# (C-Sharp)
-Object-oriented, by Microsoft
-Game dev (Unity), Windows apps
-OS, secure apps
-Focus on memory safety without garbage collection
+1. C# (C-Sharp)
+- Object-oriented, by Microsoft
+- Game dev (Unity), Windows apps
+- OS, secure apps
+- Focus on memory safety without garbage collection
 
-####Swift
-Compiled, by Apple
-iOS, macOS apps
-Safe, fast, beginner-friendly
+2. Swift
+- Compiled, by Apple
+- iOS, macOS apps
+- Safe, fast, beginner-friendly
 
-####PHP
-Server-side scripting
-Websites, WordPress
-Powers 70%+ of websites
+3. PHP
+- Server-side scripting
+- Websites, WordPress
+- Powers 70%+ of websites
 
-####C# (C-Sharp)
-Object-oriented, by Microsoft
-Game dev (Unity), Windows apps
-Combines C++ power with Java simplicity
+3. C# (C-Sharp)
+- Object-oriented, by Microsoft
+- Game dev (Unity), Windows apps
+- Combines C++ power with Java simplicity
 
 ### Key Trends
 
