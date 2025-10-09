@@ -24,24 +24,8 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 ### Growing Languages
 ### Other Notable Languages
 
-####RUST
-Systems programming
-OS, secure apps
-Focus on memory safety without garbage collection 
-
-####Swift
-Compiled, by Apple
-iOS, macOS apps
-Safe, fast, beginner-friendly
-
-####PHP
-Server-side scripting
-Websites, WordPress
-Powers 70%+ of websites
-
-1. C# (C-Sharp)
-- Object-oriented, by Microsoft
-- Game dev (Unity), Windows apps
+1. RUST
+- System programming
 - OS, secure apps
 - Focus on memory safety without garbage collection
 
@@ -55,7 +39,7 @@ Powers 70%+ of websites
 - Websites, WordPress
 - Powers 70%+ of websites
 
-3. C# (C-Sharp)
+4. C# (C-Sharp)
 - Object-oriented, by Microsoft
 - Game dev (Unity), Windows apps
 - Combines C++ power with Java simplicity
