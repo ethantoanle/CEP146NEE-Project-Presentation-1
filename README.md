@@ -26,8 +26,8 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 ### Key Trends
 
 
-# Top 5 Language Language You Need to learn
-- For the upcoming AI treend Phyton is suprassing most if not all programming languanges since very easy to learn, and great for AI, data science and automation.
+# Top 5 Language Language You Need to learn ( https://www.youtube.com/watch?v=xj0RwiiKiRU&t=1s )
+- For the upcoming AI trend Phyton is suprassing most if not all programming languanges since very easy to learn, and great for AI, data science and automation.
 - Java Script is popular specially for web-development since it upgrades the websites tremendously from design to interactive pages and more.
 - C and C++ is a more tech language than listed since it teaches more than just coding but also how computer works to be able to gain more performance or speed.
 - Go (Go Lang) is like Phyton, JavaScript, and C combined. It is fast, simple and efficient programming language build by Google for creating reliable, scalable software-- especially for server and cloud systems.
