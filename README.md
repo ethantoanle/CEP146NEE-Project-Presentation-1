@@ -6,11 +6,9 @@
 | Ethan Le | 122071251 |
 | Ihab Yehia | |
 <<<<<<< HEAD
-| Komil Rabiyev | |
+| Komil Rabiyev | 144801248 |
 | Lance Cadag | 132197237 |
 =======
-| Komil Rabiyev |144801248 |
-| Lance Cadag | |132197237
 >>>>>>> 8b827f2c93a40f7ead08d5f124df7ee009e08a3b
 
 ## Topic summary
@@ -49,18 +47,10 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 - Game dev (Unity), Windows apps
 - Combines C++ power with Java simplicity
 
-### Key Trends
-
-Link to YouTube video (Time: 2:30–3:00 minutes)
-
-README.md[+] [dos] (16:44 09/10/2025)                                   45,1 70%
--- INSERT --
-
 
 ### Key Trends
 
-
-# Top 5 Language Language You Need to learn ( https://www.youtube.com/watch?v=xj0RwiiKiRU&t=1s )
+### Top 5 Language Language You Need to learn ( https://www.youtube.com/watch?v=xj0RwiiKiRU&t=1s )
 - For the upcoming AI trend Phyton is suprassing most if not all programming languanges since very easy to learn, and great for AI, data science and automation.
 - Java Script is popular specially for web-development since it upgrades the websites tremendously from design to interactive pages and more.
 - C and C++ is a more tech language than listed since it teaches more than just coding but also how computer works to be able to gain more performance or speed.
