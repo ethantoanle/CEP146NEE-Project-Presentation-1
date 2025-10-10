@@ -6,7 +6,7 @@
 | Ethan Le | 122071251 |
 | Ihab Yehia | |
 | Komil Rabiyev | |
-| Lance Cadag | |132197237
+| Lance Cadag | 132197237 |
 
 ## Topic summary
 
@@ -25,7 +25,12 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 ### Other Notable Languages
 ### Key Trends
 
-Link to YouTube video (Time: 2:30–3:00 minutes)
+
+# Top 5 Language Language You Need to learn
+- For the upcoming AI treend Phyton is suprassing most if not all programming languanges since very easy to learn, and great for AI, data science and automation.
+- Java Script is popular specially for web-development since it upgrades the websites tremendously from design to interactive pages and more.
+- C and C++ is a more tech language than listed since it teaches more than just coding but also how computer works to be able to gain more performance or speed.
+- Go (Go Lang) is like Phyton, JavaScript, and C combined. It is fast, simple and efficient programming language build by Google for creating reliable, scalable software-- especially for server and cloud systems.
 
 ## Final question
 - Each group must end their video with one thought-provoking test question related to their topic.
