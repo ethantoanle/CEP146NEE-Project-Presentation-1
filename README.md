@@ -5,8 +5,13 @@
 | Ali Sina Qadiri | |
 | Ethan Le | 122071251 |
 | Ihab Yehia | |
+<<<<<<< HEAD
 | Komil Rabiyev | |
 | Lance Cadag | 132197237 |
+=======
+| Komil Rabiyev |144801248 |
+| Lance Cadag | |132197237
+>>>>>>> 8b827f2c93a40f7ead08d5f124df7ee009e08a3b
 
 ## Topic summary
 
@@ -23,6 +28,35 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 ### Dominant Languages
 ### Growing Languages
 ### Other Notable Languages
+
+1. RUST
+- System programming
+- OS, secure apps
+- Focus on memory safety without garbage collection
+
+2. Swift
+- Compiled, by Apple
+- iOS, macOS apps
+- Safe, fast, beginner-friendly
+
+3. PHP
+- Server-side scripting
+- Websites, WordPress
+- Powers 70%+ of websites
+
+4. C# (C-Sharp)
+- Object-oriented, by Microsoft
+- Game dev (Unity), Windows apps
+- Combines C++ power with Java simplicity
+
+### Key Trends
+
+Link to YouTube video (Time: 2:30–3:00 minutes)
+
+README.md[+] [dos] (16:44 09/10/2025)                                   45,1 70%
+-- INSERT --
+
+
 ### Key Trends
 
 
