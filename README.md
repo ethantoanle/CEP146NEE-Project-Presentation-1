@@ -8,9 +8,7 @@
 | Komil Rabiyev | 144801248 |
 | Lance Cadag | 132197237 |
 
-
-
-## Topic summary
+## Topic summary - Ethan
 
 In the article titled “Programming Language Trends in 2025: What Developers Are Using Now”, Alex Carter (2025) reveals that Python is poised to dominate the programming landscape in 2025, with AI-driven growth and a market share of 25.98%. Meanwhile, JavaScript remains a staple for web development but faces competition from TypeScript, which is favored for scalable projects. Rust and Go are gaining popularity, excelling in cloud-native and high-performance applications. Meanwhile, older languages like PHP and C# are seeing a significant decline.
 
@@ -23,6 +21,11 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 - C# and PHP: Usage declines due to competition and modern alternatives.
 
 ## Dominant Languages - Ethan
+Based on IEEE Spectrum's ranked metrics which include job demand, GitHub activity, search queries and StackExchange mentions [(IEEE Spectrum, 2025)](https://spectrum.ieee.org/top-programming-languages-2025).
+- Python holds the top spot in the “Spectrum” ranking (IEEE’s default) and also leads in the “Jobs” ranking (i.e. what employer demand shows).
+- SQL remains a key skill in job demand (ranking high in the “Jobs” metric).
+- JavaScript—traditionally a powerhouse especially for web programming.
+
 ## Growing Languages - Ihab
 **Microsoft acquisition news or GitHub updates**
 
