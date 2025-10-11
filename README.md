@@ -63,6 +63,10 @@ In June 2018 Microsoft acquired github for 7.5 billion. Since then, GitHub has c
 - Go (Go Lang) is like Phyton, JavaScript, and C combined. It is fast, simple and efficient programming language build by Google for creating reliable, scalable software-- especially for server and cloud systems.
 
 ## Final question
+**Group 3's question for other groups:** 
+> How do you think the trends will change in both academia and industry over the next five years? Can a single language like Python maintain its dominance in the long term, or will specialized languages eventually break it?
+
+Remarks:
 - Each group must end their video with one thought-provoking test question related to their topic.
 - Each student (individually) must comment or answer questions posed by other groups.
 
