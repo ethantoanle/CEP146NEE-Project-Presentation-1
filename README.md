@@ -21,7 +21,7 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 - C# and PHP: Usage declines due to competition and modern alternatives.
 
 ## Dominant Languages - Ethan
-Based on IEEE Spectrum's ranked metrics which include job demand, GitHub activity, search queries and StackExchange mentions [(IEEE Spectrum, 2025)](https://spectrum.ieee.org/top-programming-languages-2025).
+Based on IEEE Spectrum's ranked metrics which include job demand, GitHub activity, search queries and StackExchange mentions [(IEEE Spectrum, 2025)](https://spectrum.ieee.org/top-programming-languages-2025). The rank reveals that
 - Python holds the top spot in the “Spectrum” ranking (IEEE’s default) and also leads in the “Jobs” ranking (i.e. what employer demand shows).
 - SQL remains a key skill in job demand (ranking high in the “Jobs” metric).
 - JavaScript—traditionally a powerhouse especially for web programming.
