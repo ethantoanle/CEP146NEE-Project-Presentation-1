@@ -1,15 +1,14 @@
-# Project title: Programming Language Trends
+# Project title: PROGRAMMING LANGUAGE TRENDS
+
 ### Group 3
 | Team Member | Student ID |
 |------|-----|
-| Ali Sina Qadiri | |
 | Ethan Le | 122071251 |
-| Ihab Yehia | |
-<<<<<<< HEAD
+| Ihab Yehia | 125296251 |
 | Komil Rabiyev | 144801248 |
 | Lance Cadag | 132197237 |
-=======
->>>>>>> 8b827f2c93a40f7ead08d5f124df7ee009e08a3b
+
+
 
 ## Topic summary
 
@@ -23,9 +22,13 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 - JavaScript: Powers 98% of websites but falls to #6 in the IEEE Spectrum rankings.
 - C# and PHP: Usage declines due to competition and modern alternatives.
 
-### Dominant Languages
-### Growing Languages
-### Other Notable Languages
+## Dominant Languages - Ethan
+## Growing Languages - Ihab
+**Microsoft acquisition news or GitHub updates**
+
+In June 2018 Microsoft acquired github for 7.5 billion. Since then, GitHub has continued to operate independently but with more resources and tighter integration with Microsoft’s ecosystem. After the acquisition, GitHub introduced several major features. These include GitHub Copilot, an AI coding assistant developed with OpenAI, GitHub Actions for automating development workflows, GitHub Codespaces for cloud-based coding, and Dependabot, which automatically detects and fixes security issues in project dependencies. Microsoft also integrated GitHub more deeply into tools like Visual Studio and Azure, helping developers streamline their coding and deployment processes. The platform has seen strong growth in both users and repositories. Although there were concerns in the developer community about the acquisition, GitHub has maintained its support for open-source development and remains a key platform for millions of developers worldwide.
+
+## Other Notable Languages - Komil
 
 1. RUST
 - System programming
@@ -48,9 +51,9 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 - Combines C++ power with Java simplicity
 
 
-### Key Trends
+## Key Trends - Lance
 
-### Top 5 Language Language You Need to learn ( https://www.youtube.com/watch?v=xj0RwiiKiRU&t=1s )
+### [Top 5 Language Language You Need to learn]( https://www.youtube.com/watch?v=xj0RwiiKiRU&t=1s )
 - For the upcoming AI trend Phyton is suprassing most if not all programming languanges since very easy to learn, and great for AI, data science and automation.
 - Java Script is popular specially for web-development since it upgrades the websites tremendously from design to interactive pages and more.
 - C and C++ is a more tech language than listed since it teaches more than just coding but also how computer works to be able to gain more performance or speed.
