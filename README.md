@@ -62,6 +62,9 @@ In June 2018 Microsoft acquired github for 7.5 billion. Since then, GitHub has c
 - C and C++ is a more tech language than listed since it teaches more than just coding but also how computer works to be able to gain more performance or speed.
 - Go (Go Lang) is like Phyton, JavaScript, and C combined. It is fast, simple and efficient programming language build by Google for creating reliable, scalable software-- especially for server and cloud systems.
 
+## Link to YouTube Video
+[CEP146 - Project 1 - Programming Language Trends](https://youtu.be/HpRT5mPgOBQ)
+
 ## Final question
 **Group 3's question for other groups:** 
 > How do you think the trends will change in both academia and industry over the next five years? Can a single language like Python maintain its dominance in the long term, or will specialized languages eventually break it?
@@ -72,9 +75,9 @@ Remarks:
 
 # Deliverables Checklist
 All items must be committed to the group’s GitHub repository:
-- Research notes or draft write-up
-- Video script or outline
-- Visual slides (if used)
-- Final video YouTube link
-- Final question for audience engagement
-- Evidence of collaboration (issues, commits, pull requests, etc.)
+- Research notes or draft write-up - **Done**
+- Video script or outline - **Done**
+- Visual slides (if used) - [PowerPoint Slides (Seneca login required)](https://seneca-my.sharepoint.com/:p:/g/personal/ele4_myseneca_ca/EZZG1mMBmgFArlkaYnnnK2EB_TxMwy2Y-Nu4GBfKHJL5cg?e=Bh9qVK)
+- Final video YouTube link - **Done**
+- Final question for audience engagement - **Done**
+- Evidence of collaboration (issues, commits, pull requests, etc.) - **Done**
