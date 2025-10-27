@@ -13,10 +13,8 @@
 In the article titled “Programming Language Trends in 2025: What Developers Are Using Now”, Alex Carter (2025) reveals that Python is poised to dominate the programming landscape in 2025, with AI-driven growth and a market share of 25.98%. Meanwhile, JavaScript remains a staple for web development but faces competition from TypeScript, which is favored for scalable projects. Rust and Go are gaining popularity, excelling in cloud-native and high-performance applications. Meanwhile, older languages like PHP and C# are seeing a significant decline.
 
 **Key Insights:**
-- Python: Leading in AI/ML focus; surpassing JavaScript on GitHub with 20.5% growth in contributions.
-- Rust: Clim ranking with 67% developer approval for security and memory efficiency.
-- Python: Leading in AI/ML focus; surpassing JavaScript on GitHub with 30% growth in contributions.
-- Rust: Clim ranking with 50% developer approval for security and memory efficiency.
+- Python: Leading in AI/ML focus; surpassing JavaScript on GitHub with 22.5% growth in contributions.
+- Rust: Clim ranking with 72% developer approval for security and memory efficiency.
 - Go: Popular for cloud-native systems; rising to #7 in the TIOBE Index.
 - TypeScript: Used by 69% of developers for large-scale web applications.
 - JavaScript: Powers 98% of websites but falls to #6 in the IEEE Spectrum rankings.
