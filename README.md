@@ -14,7 +14,7 @@ In the article titled “Programming Language Trends in 2025: What Developers Ar
 
 **Key Insights:**
 - Python: Leading in AI/ML focus; surpassing JavaScript on GitHub with 30% growth in contributions.
-- Rust: Clim ranking with 72% developer approval for security and memory efficiency.
+- Rust: Clim ranking with 50% developer approval for security and memory efficiency.
 - Go: Popular for cloud-native systems; rising to #7 in the TIOBE Index.
 - TypeScript: Used by 69% of developers for large-scale web applications.
 - JavaScript: Powers 98% of websites but falls to #6 in the IEEE Spectrum rankings.
